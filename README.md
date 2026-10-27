@@ -1,4 +1,4 @@
-<h1 align="center">⚡ ILHAM SURYANULLOH⚡</h1>
+<h1 align="center">⚡ ILHAM SURYANULLOH ⚡</h1>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/See-No-Evil%20Monkey.png" alt="See-No-Evil Monkey" width="100" height="100"/>
@@ -13,42 +13,73 @@
 ---
 
 <p align="center">
-  <em>"Nullifying complexity through optimized code and automated infrastructure."</em><br/><br/>
+  <em>"Transforming raw data into actionable intelligence and scalable systems."</em><br/><br/>
   <strong>Ilham Suryanulloh</strong><br/>
-  Backend & System Engineer. Building scalable APIs, database architectures, and reliable automation scripts.
+  Data & System Engineer | Information Systems Graduate (GPA 3.57/4.00)<br/>
+  📍 Bogor, Indonesia &nbsp;|&nbsp; ✉️ ilhamsuryanulloh20@gmail.com &nbsp;|&nbsp; 📞 +6285885877172
 </p>
 
 ---
 
-<h3 align="center">💻 Core Arsenal</h3>
+<h3 align="center">📊 Core Arsenal & Tech Stack</h3>
 <br/>
 
-<p align="center"><strong>⚙️ Backend & Languages</strong></p>
+<p align="center"><strong>🐍 Data Science, ML & NLP</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,rust,python,typescript,nodejs&theme=dark" alt="Backend Stack" />
+  <img src="https://skillicons.dev/icons?i=python,R,tensorflow,pytorch&theme=dark" alt="Data Science Stack" />
+</p>
+
+<p align="center"><em>Libraries: Pandas, NumPy, Scikit-Learn, Google Colab</em></p>
+
+<br/>
+
+<p align="center"><strong>📈 Visualization & BI</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=powerbi,looker,tableau,excel&theme=dark" alt="BI Stack" />
 </p>
 
 <br/>
 
-<p align="center"><strong>🗄️ Databases & Cloud</strong></p>
+<p align="center"><strong>🗄️ Databases & Backend</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,kubernetes,aws&theme=dark" alt="Infra Stack" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,nodejs&theme=dark" alt="Database Stack" />
 </p>
 
 <br/>
 
-<p align="center"><strong>🛠️ Dev Tools & OS</strong></p>
+<p align="center"><strong>🌐 Web & Tools</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,linux,neovim,bash,postman&theme=dark" alt="Tools Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,vscode&theme=dark" alt="Tools Stack" />
 </p>
 
 ---
 
-<h3 align="center">🕹️ Contribution Activity</h3>
+<h3 align="center">🚀 Featured Projects & Experience</h3>
+
+- **🏆 SIDINI: Outbreak Early Warning Dashboard (1st Place, Digital Health Innovation)**  
+  Designed data logic, simulated surveillance PRNG datasets, and implemented LLM analysis (Groq API) for health office early warnings.
+- **📜 Sentiment Analysis of Super App Polri (Undergraduate Thesis)**  
+  End-to-end NLP & ML pipeline on 3,000 reviews using Python, TF-IDF, Naïve Bayes, and Random Forest (92.58% accuracy).
+- **📊 EDA on Social Media Usage (VINIX Seven Aurum)**  
+  Exploratory Data Analysis on 117 respondents using Pandas, Matplotlib, and Seaborn to extract behavior insights.
+
+---
+
+<h3 align="center">🕹️ Contribution Activity (Galaga)</h3>
 
 <p align="center">
-  <img src="https://github.com/Suryanulloh/Suryanulloh/raw/output/pacman.svg" alt="Pac-Man Animation" />
+  <img src="https://github.com/Suryanulloh/Suryanulloh/raw/output/galaga.svg" alt="Galaga Animation" />
 </p>
+
+---
+
+<h3 align="center">🎧 Recently Played</h3>
+<br/>
+<div align="center">
+  <a href="https://open.spotify.com/user/31anv6csodko25e2k7faplry2txe" target="_blank">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31anv6csodko25e2k7faplry2txe&count=3" alt="Spotify recently played" />
+  </a>
+</div>
 
 ---
 
