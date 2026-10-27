@@ -70,7 +70,7 @@
 
 <h3 align="center">🕹️ Galaga Arcade</h3>
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1dzNqdnBlc2V3ZnV2M3Boc2Z3M3Boc2Z3M3Boc2Z3M3Boc2Z3JmFwPTE5X2dpZl9pZCZjdD1n/12jifp88h645u0/giphy.gif" alt="Galaga Arcade" width="100%" />
+  <img src="Playing%20Video%20Games.gif" alt="Galaga Animation" width="100%" />
 </p>
 
 ---
