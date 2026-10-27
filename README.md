@@ -55,11 +55,11 @@
 <h3 align="center">🔗 Secure Channels</h3>
 <br/>
 <div align="center">
-  <a href="https://linkedin.com/in/suryanulloh" target="_blank">
+  <a href="https://www.linkedin.com/in/ilhamsuryanulloh" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/suryanulloh" target="_blank">
+  <a href="https://www.instagram.com/ilhamsuryanulloh_/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram" />
   </a>
 </div>
