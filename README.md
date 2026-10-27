@@ -68,19 +68,19 @@
 
 ---
 
-<h3 align="center">🕹️ Contribution Activity (Galaga)</h3>
+<h3 align="center">🕹️ Contribution Activity</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Suryanulloh/Suryanulloh/output/galaga.svg" alt="Galaga Animation" />
+  <img src="https://raw.githubusercontent.com/Suryanulloh/Suryanulloh/output/galaga.svg" alt="Contribution Animation" />
 </p>
 
 ---
 
-<h3 align="center">🎧 Recently Played</h3>
+<h3 align="center">🎧 Spotify Status</h3>
 <br/>
 <div align="center">
   <a href="https://open.spotify.com/user/31rw5znowjy5u7yc2nao7ucz3vty" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31rw5znowjy5u7yc2nao7ucz3vty&count=3" alt="Spotify recently played" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31rw5znowjy5u7yc2nao7ucz3vty&count=1&unique=true" alt="Spotify" />
   </a>
 </div>
 
