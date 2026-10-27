@@ -1,0 +1,37 @@
+name: Generate Galaga Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Galaga Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Suryanulloh
+          outputs: |
+            dist/galaga.svg?palette=github-dark&color_snake=orange
+            dist/galaga.gif?palette=github-dark&color_snake=orange&output_type=gif
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
