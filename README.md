@@ -68,10 +68,10 @@
 
 ---
 
-<h3 align="center">🕹️ Galaga Arcade Theme</h3>
+<h3 align="center">🕹️ Arcade Theme</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26vUBWsG8A5lsB7a8/giphy.gif" alt="Galaga Arcade" width="100%" />
+  <img src="https://i.imgflip.com/645bba.gif" alt="Arcade Game" width="100%" />
 </p>
 
 ---
