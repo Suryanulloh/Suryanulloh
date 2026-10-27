@@ -68,10 +68,10 @@
 
 ---
 
-<h3 align="center">🕹️ Contribution Activity</h3>
+<h3 align="center">🕹️ Contribution Activity (Galaga)</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suryanulloh&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://raw.githubusercontent.com/Suryanulloh/Suryanulloh/output/galaga.svg" alt="Galaga Animation" />
 </p>
 
 ---
@@ -79,8 +79,8 @@
 <h3 align="center">🎧 Recently Played</h3>
 <br/>
 <div align="center">
-  <a href="https://open.spotify.com" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=MASUKKAN_USERNAME_SPOTIFY_ILHAM&count=3" alt="Spotify recently played" />
+  <a href="https://open.spotify.com/user/31rw5znowjy5u7yc2nao7ucz3vty" target="_blank">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31rw5znowjy5u7yc2nao7ucz3vty&count=3" alt="Spotify recently played" />
   </a>
 </div>
 
