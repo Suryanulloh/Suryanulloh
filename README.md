@@ -21,35 +21,34 @@
 
 ---
 
-<h3 align="center">📊 Core Arsenal & Tech Stack</h3>
+<h3 align="center">💻 Core Arsenal & Tech Stack</h3>
 <br/>
 
 <p align="center"><strong>🐍 Data Science, ML & NLP</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,R,tensorflow,pytorch&theme=dark" alt="Data Science Stack" />
+  <img src="https://skillicons.dev/icons?i=python,vscode,git,github&theme=dark" alt="Data Science Stack" />
 </p>
-
-<p align="center"><em>Libraries: Pandas, NumPy, Scikit-Learn, Google Colab</em></p>
+<p align="center"><em>Libraries & Tools: Pandas, NumPy, Scikit-Learn, Google Colab</em></p>
 
 <br/>
 
-<p align="center"><strong>📈 Visualization & BI</strong></p>
+<p align="center"><strong>📊 Visualization & BI</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=powerbi,looker,tableau,excel&theme=dark" alt="BI Stack" />
+  <code>Power BI</code> &bull; <code>Tableau</code> &bull; <code>Looker Studio</code> &bull; <code>Microsoft Excel</code> &bull; <code>IBM SPSS</code>
 </p>
 
 <br/>
 
 <p align="center"><strong>🗄️ Databases & Backend</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,nodejs&theme=dark" alt="Database Stack" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,nodejs&theme=dark" alt="Database Stack" />
 </p>
 
 <br/>
 
-<p align="center"><strong>🌐 Web & Tools</strong></p>
+<p align="center"><strong>🌐 Web Development</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,vscode&theme=dark" alt="Tools Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Web Stack" />
 </p>
 
 ---
@@ -65,19 +64,11 @@
 
 ---
 
-<h3 align="center">🕹️ Contribution Activity (Galaga)</h3>
-
-<p align="center">
-  <img src="https://github.com/Suryanulloh/Suryanulloh/raw/output/galaga.svg" alt="Galaga Animation" />
-</p>
-
----
-
 <h3 align="center">🎧 Recently Played</h3>
 <br/>
 <div align="center">
-  <a href="https://open.spotify.com/user/31anv6csodko25e2k7faplry2txe" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31anv6csodko25e2k7faplry2txe&count=3" alt="Spotify recently played" />
+  <a href="https://open.spotify.com" target="_blank">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=MASUKKAN_USERNAME_SPOTIFY_ILHAM&count=3" alt="Spotify recently played" />
   </a>
 </div>
 
