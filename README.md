@@ -70,7 +70,7 @@
 
 <h3 align="center">🕹️ Arcade Vibe</h3>
 <p align="center">
-  <img src="Playing%20Video%20Games.gif" alt="Playing Video Games" width="100%" />
+  <img src="Playing%20Video%20Games.gif" alt="Playing Video Games" width="50%" />
 </p>
 
 ---
