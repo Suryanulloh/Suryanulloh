@@ -16,7 +16,7 @@
   <em>"Transforming raw data into actionable intelligence and scalable systems."</em><br/><br/>
   <strong>Ilham Suryanulloh</strong><br/>
   Data & System Engineer | Information Systems Graduate (GPA 3.57/4.00)<br/>
-  📍 Bogor, Indonesia &nbsp;|&nbsp; ✉️ ilhamsuryanulloh20@gmail.com &nbsp;
+  📍 Bogor, Indonesia &nbsp;|&nbsp; ✉️ ilhamsuryanulloh20@gmail.com
 </p>
 
 ---
@@ -67,8 +67,6 @@
 
 - **📊 EDA on Social Media Usage (VINIX Seven Aurum)**  
   <p align="justify">Exploratory Data Analysis on 117 respondents using Pandas, Matplotlib, and Seaborn to extract behavior insights.</p>
-
-</div>
 
 ---
 
