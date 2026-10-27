@@ -68,10 +68,9 @@
 
 ---
 
-<h3 align="center">🕹️ Arcade Theme</h3>
-
+<h3 align="center">🎮 Arcade Vibe</h3>
 <p align="center">
-  <img src="https://i.imgflip.com/645bba.gif" alt="Arcade Game" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=INSERT%20COIN%20TO%20CONTINUE&fontSize=22&fontColor=38bdf8" alt="Arcade Banner" />
 </p>
 
 ---
