@@ -16,7 +16,7 @@
   <em>"Transforming raw data into actionable intelligence and scalable systems."</em><br/><br/>
   <strong>Ilham Suryanulloh</strong><br/>
   Data & System Engineer | Information Systems Graduate (GPA 3.57/4.00)<br/>
-  📍 Bogor, Indonesia &nbsp;|&nbsp; ✉️ ilhamsuryanulloh20@gmail.com &nbsp;|&nbsp; 📞 +6285885877172
+  📍 Bogor, Indonesia &nbsp;|&nbsp; ✉️ ilhamsuryanulloh20@gmail.com &nbsp;
 </p>
 
 ---
@@ -68,19 +68,19 @@
 
 ---
 
-<h3 align="center">🕹️ Contribution Activity</h3>
+<h3 align="center">🕹️ Galaga Arcade Theme</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Suryanulloh/Suryanulloh/output/galaga.svg" alt="Contribution Animation" />
+  <img src="https://media.giphy.com/media/26vUBWsG8A5lsB7a8/giphy.gif" alt="Galaga Arcade" width="100%" />
 </p>
 
 ---
 
-<h3 align="center">🎧 Spotify Status</h3>
+<h3 align="center">🎧 Spotify</h3>
 <br/>
 <div align="center">
   <a href="https://open.spotify.com/user/31rw5znowjy5u7yc2nao7ucz3vty" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31rw5znowjy5u7yc2nao7ucz3vty&count=1&unique=true" alt="Spotify" />
+    <img src="https://img.shields.io/badge/Spotify-Listen%20Now-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
   </a>
 </div>
 
