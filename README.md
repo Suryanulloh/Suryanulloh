@@ -59,12 +59,16 @@
 
 <h3 align="center">🚀 Featured Projects & Experience</h3>
 
+<div align="justify">
+
 - **🏆 SIDINI: Outbreak Early Warning Dashboard (1st Place, Digital Health Innovation)**  
   Designed data logic, simulated surveillance PRNG datasets, and implemented LLM analysis (Groq API) for health office early warnings.
 - **📜 Sentiment Analysis of Super App Polri (Undergraduate Thesis)**  
   End-to-end NLP & ML pipeline on 3,000 reviews using Python, TF-IDF, Naïve Bayes, and Random Forest (92.58% accuracy).
 - **📊 EDA on Social Media Usage (VINIX Seven Aurum)**  
   Exploratory Data Analysis on 117 respondents using Pandas, Matplotlib, and Seaborn to extract behavior insights.
+
+</div>
 
 ---
 
