@@ -68,10 +68,10 @@
 
 ---
 
-<h3 align="center">🕹️ Contribution Activity (Galaga)</h3>
+<h3 align="center">🕹️ Contribution Activity</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Suryanulloh/Suryanulloh/output/galaga.svg" alt="Galaga Animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suryanulloh&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
