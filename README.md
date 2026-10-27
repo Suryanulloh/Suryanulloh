@@ -1,7 +1,7 @@
 <h1 align="center">⚡ ILHAM SURYANULLOH ⚡</h1>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/See-No-Evil%20Monkey.png" alt="See-No-Evil Monkey" width="100" height="100"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Detective.png" alt="Man Detective" width="100" height="100"/>
 </div>
 
 <br/>
@@ -68,9 +68,9 @@
 
 ---
 
-<h3 align="center">🕹️ Galaga Arcade</h3>
+<h3 align="center">🕹️ Arcade Vibe</h3>
 <p align="center">
-  <img src="Playing%20Video%20Games.gif" alt="Galaga Animation" width="100%" />
+  <img src="Playing%20Video%20Games.gif" alt="Playing Video Games" width="100%" />
 </p>
 
 ---
