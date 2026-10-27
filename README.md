@@ -16,7 +16,7 @@
   <em>"Transforming raw data into actionable intelligence and scalable systems."</em><br/><br/>
   <strong>Ilham Suryanulloh</strong><br/>
   Data & System Engineer | Information Systems Graduate (GPA 3.57/4.00)<br/>
-  📍 Bogor, Indonesia &nbsp;|&nbsp; ✉️ ilhamsuryanulloh20@gmail.com &nbsp;|&nbsp; 📞 +6285885877172
+  📍 Bogor, Indonesia &nbsp;|&nbsp; ✉️ ilhamsuryanulloh20@gmail.com &nbsp;
 </p>
 
 ---
