@@ -68,9 +68,9 @@
 
 ---
 
-<h3 align="center">🎮 Arcade Vibe</h3>
+<h3 align="center">🕹️ Galaga Arcade</h3>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=INSERT%20COIN%20TO%20CONTINUE&fontSize=22&fontColor=38bdf8" alt="Arcade Banner" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1dzNqdnBlc2V3ZnV2M3Boc2Z3M3Boc2Z3M3Boc2Z3M3Boc2Z3JmFwPTE5X2dpZl9pZCZjdD1n/12jifp88h645u0/giphy.gif" alt="Galaga Arcade" width="100%" />
 </p>
 
 ---
