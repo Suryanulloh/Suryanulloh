@@ -1,7 +1,7 @@
 <h1 align="center">⚡ SURYANOLLAH // SYSTEM ARCHITECT ⚡</h1>
 
 <div align="center">
-  <img width="100%" src="https://media.giphy.com/media/12jifp88h645u0/giphy.gif" alt="Matrix Terminal" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/See-No-Evil%20Monkey.png" alt="See-No-Evil Monkey" width="100" height="100"/>
 </div>
 
 <br/>
