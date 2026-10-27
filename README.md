@@ -16,7 +16,7 @@
   <em>"Transforming raw data into actionable intelligence and scalable systems."</em><br/><br/>
   <strong>Ilham Suryanulloh</strong><br/>
   Data & System Engineer | Information Systems Graduate (GPA 3.57/4.00)<br/>
-  📍 Bogor, Indonesia &nbsp;|&nbsp; ✉️ ilhamsuryanulloh20@gmail.com &nbsp;
+  📍 Bogor, Indonesia &nbsp;|&nbsp; ✉️ ilhamsuryanulloh20@gmail.com &nbsp;|&nbsp; 📞 +6285885877172
 </p>
 
 ---
@@ -26,22 +26,26 @@
 
 <p align="center"><strong>🐍 Data Science, ML & NLP</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,vscode,git,github&theme=dark" alt="Data Science Stack" />
+  <img src="https://skillicons.dev/icons?i=python,vscode,git,github,colab&theme=dark" alt="Data Science Stack" />
 </p>
-<p align="center"><em>Libraries & Tools: Pandas, NumPy, Scikit-Learn, Google Colab</em></p>
+<p align="center"><em>Libraries: Pandas, NumPy, Scikit-Learn, PyTorch, TensorFlow</em></p>
 
 <br/>
 
 <p align="center"><strong>📊 Visualization & BI</strong></p>
 <p align="center">
-  <code>Power BI</code> &bull; <code>Tableau</code> &bull; <code>Looker Studio</code> &bull; <code>Microsoft Excel</code> &bull; <code>IBM SPSS</code>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google-looker&logoColor=white" alt="Looker Studio" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/IBM_SPSS-000000?style=for-the-badge&logo=ibm&logoColor=white" alt="SPSS" />
 </p>
 
 <br/>
 
 <p align="center"><strong>🗄️ Databases & Backend</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,nodejs&theme=dark" alt="Database Stack" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,nodejs&theme=dark" alt="Database Stack" />
 </p>
 
 <br/>
@@ -61,6 +65,14 @@
   End-to-end NLP & ML pipeline on 3,000 reviews using Python, TF-IDF, Naïve Bayes, and Random Forest (92.58% accuracy).
 - **📊 EDA on Social Media Usage (VINIX Seven Aurum)**  
   Exploratory Data Analysis on 117 respondents using Pandas, Matplotlib, and Seaborn to extract behavior insights.
+
+---
+
+<h3 align="center">🕹️ Contribution Activity (Galaga)</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Suryanulloh/Suryanulloh/output/galaga.svg" alt="Galaga Animation" />
+</p>
 
 ---
 
