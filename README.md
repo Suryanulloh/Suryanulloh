@@ -44,10 +44,10 @@
 
 ---
 
-<h3 align="center">📊 Terminal Metrics</h3>
+<h3 align="center">🕹️ Contribution Activity</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suryanulloh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="GitHub Stats" />
+  <img src="https://github.com/Suryanulloh/Suryanulloh/raw/output/pacman.svg" alt="Pac-Man Animation" />
 </p>
 
 ---
