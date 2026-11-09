@@ -65,7 +65,7 @@ Designed data logic, simulated surveillance PRNG datasets, and implemented LLM a
 
 **Undergraduate Thesis**
 
-Built an end-to-end NLP and machine learning pipeline on 3,000 reviews using Python, TF-IDF, Naïve Bayes, and Random Forest—achieving **92.58% accuracy**.
+Built an end-to-end NLP and machine learning pipeline on 3,000 reviews using Python, TF-IDF, Naïve Bayes, and Random Forest achieving **92.58% accuracy**.
 
 ### 📊 EDA on Social Media Usage
 
