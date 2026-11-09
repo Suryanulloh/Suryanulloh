@@ -2,37 +2,31 @@ name: Generate Barcelona Pac-Man contribution game
 
 on:
   schedule:
-    - cron: "17 0 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches:
       - main
-    paths:
-      - ".github/workflows/pacman.yml"
-
-permissions:
-  contents: write
-
-concurrency:
-  group: pacman-contribution-game
-  cancel-in-progress: true
 
 jobs:
   generate:
+    permissions:
+      contents: write
+
     runs-on: ubuntu-latest
     timeout-minutes: 20
 
     steps:
-      - name: Generate Pac-Man contribution graphs
-        uses: abozanona/pacman-contribution-graph@294c47eff28a41339a279107ae771b5fa020037a
+      - name: Generate Pac-Man contribution graph
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          games: pacman
-          player_style: aggressive
+          games: "pacman"
+          player_style: "aggressive"
           hide_month_labels: "false"
 
-      - name: Publish graphs to the pacman-output branch
-        uses: crazy-max/ghaction-github-pages@c0d7ff0487ee0415efb7f32dab10ea880330b1dd
+      - name: Publish Pac-Man SVG
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: pacman-output
           build_dir: dist
