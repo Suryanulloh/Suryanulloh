@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="52" viewBox="0 0 1200 52" role="img" aria-label="Barcelona-inspired matchday divider">
+  <defs>
+    <linearGradient id="line"><stop stop-color="#004d98" stop-opacity="0"/><stop offset=".25" stop-color="#004d98"/><stop offset=".5" stop-color="#edbb00"/><stop offset=".75" stop-color="#a50044"/><stop offset="1" stop-color="#a50044" stop-opacity="0"/></linearGradient>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>.ball{animation:roll 6s linear infinite;transform-origin:600px 26px}@keyframes roll{to{transform:rotate(360deg)}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+  </defs>
+  <path d="M70 26H1130" stroke="url(#line)" stroke-width="3"/>
+  <g class="ball" filter="url(#glow)"><circle cx="600" cy="26" r="17" fill="#f8fafc" stroke="#edbb00" stroke-width="2"/><path d="M600 19l7 5-3 8h-8l-3-8Z" fill="#111827"/><path d="M600 19v-8M607 24l8-3M604 32l5 7M596 32l-5 7M593 24l-8-3" stroke="#111827" stroke-width="2"/></g>
+  <circle cx="565" cy="26" r="3" fill="#004d98"/><circle cx="635" cy="26" r="3" fill="#a50044"/>
+</svg>

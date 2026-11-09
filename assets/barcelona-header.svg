@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Ilham Suryanulloh</title>
+  <desc id="desc">A Barcelona-inspired stadium banner for a Data Analyst</desc>
+  <defs>
+    <linearGradient id="night" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#050817"/>
+      <stop offset=".52" stop-color="#09152d"/>
+      <stop offset="1" stop-color="#170515"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#fff1a8"/>
+      <stop offset=".5" stop-color="#edbb00"/>
+      <stop offset="1" stop-color="#ff8b35"/>
+    </linearGradient>
+    <linearGradient id="pitch" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#114a3b" stop-opacity=".65"/>
+      <stop offset="1" stop-color="#041710" stop-opacity=".95"/>
+    </linearGradient>
+    <radialGradient id="spotlight">
+      <stop stop-color="#fff6c9" stop-opacity=".75"/>
+      <stop offset=".28" stop-color="#edbb00" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#edbb00" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="frame"><rect width="1200" height="360" rx="28"/></clipPath>
+    <style>
+      .beam{animation:beam 4s ease-in-out infinite alternate;transform-origin:top}.beam.delay{animation-delay:1.4s}.ball{animation:turn 12s linear infinite;transform-origin:1000px 174px}.spark{animation:pulse 2.4s ease-in-out infinite alternate}@keyframes beam{from{opacity:.18}to{opacity:.58}}@keyframes turn{to{transform:rotate(360deg)}}@keyframes pulse{from{opacity:.35}to{opacity:1}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}
+    </style>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="360" fill="url(#night)"/>
+    <g opacity=".22">
+      <rect x="0" width="120" height="360" fill="#004d98"/><rect x="120" width="120" height="360" fill="#a50044"/>
+      <rect x="240" width="120" height="360" fill="#004d98"/><rect x="360" width="120" height="360" fill="#a50044"/>
+      <rect x="480" width="120" height="360" fill="#004d98"/><rect x="600" width="120" height="360" fill="#a50044"/>
+      <rect x="720" width="120" height="360" fill="#004d98"/><rect x="840" width="120" height="360" fill="#a50044"/>
+      <rect x="960" width="120" height="360" fill="#004d98"/><rect x="1080" width="120" height="360" fill="#a50044"/>
+    </g>
+
+    <path class="beam" d="M60 0L355 330H120Z" fill="#3ba5ff" opacity=".3"/>
+    <path class="beam delay" d="M1140 0L860 330H1080Z" fill="#ffcf48" opacity=".3"/>
+    <circle cx="95" cy="30" r="95" fill="url(#spotlight)"/>
+    <circle cx="1105" cy="30" r="95" fill="url(#spotlight)"/>
+
+    <g fill="#f8fafc" opacity=".8">
+      <circle cx="53" cy="37" r="3"/><circle cx="70" cy="37" r="3"/><circle cx="87" cy="37" r="3"/><circle cx="104" cy="37" r="3"/><circle cx="121" cy="37" r="3"/>
+      <circle cx="1079" cy="37" r="3"/><circle cx="1096" cy="37" r="3"/><circle cx="1113" cy="37" r="3"/><circle cx="1130" cy="37" r="3"/><circle cx="1147" cy="37" r="3"/>
+    </g>
+
+    <path d="M0 295Q150 245 300 285T600 270T900 282T1200 250V360H0Z" fill="#02050d" opacity=".94"/>
+    <path d="M0 318Q180 270 360 307T720 292T1080 303T1200 285V360H0Z" fill="url(#pitch)"/>
+    <path d="M414 360Q600 290 786 360" fill="none" stroke="#dbeafe" stroke-opacity=".32" stroke-width="2"/>
+    <path d="M600 306V360" stroke="#dbeafe" stroke-opacity=".32" stroke-width="2"/>
+    <circle cx="600" cy="330" r="31" fill="none" stroke="#dbeafe" stroke-opacity=".28" stroke-width="2"/>
+
+    <g class="ball" transform="translate(1000 174)">
+      <circle r="72" fill="#f8fafc" stroke="url(#gold)" stroke-width="6" filter="url(#glow)"/>
+      <path d="M0-25L24-8L15 21H-15L-24-8Z" fill="#111827"/>
+      <path d="M0-25L-3-57M24-8L55-18M15 21L36 49M-15 21L-36 49M-24-8L-55-18" fill="none" stroke="#111827" stroke-width="6"/>
+      <path d="M-3-57L-35-54L-55-18L-63 16L-36 49L0 65L36 49L63 16L55-18L35-54Z" fill="none" stroke="#111827" stroke-width="4"/>
+      <path d="M-63 16L-24-8M63 16L24-8M0 65L15 21M0 65L-15 21M-35-54L0-25M35-54L0-25" fill="none" stroke="#111827" stroke-width="4"/>
+    </g>
+
+    <g font-family="Verdana, Arial, sans-serif">
+      <text x="70" y="132" fill="url(#gold)" font-family="Georgia, 'Times New Roman', serif" font-size="54" font-weight="700" letter-spacing="3">ILHAM</text>
+      <text x="70" y="192" fill="url(#gold)" font-family="Georgia, 'Times New Roman', serif" font-size="54" font-weight="700" letter-spacing="3">SURYANULLOH</text>
+      <path d="M70 214H650" stroke="url(#gold)" stroke-width="3"/>
+      <circle class="spark" cx="360" cy="214" r="6" fill="#edbb00" filter="url(#glow)"/>
+      <text x="70" y="252" fill="#e5efff" font-size="19" letter-spacing="4">DATA ANALYST</text>
+      <text x="70" y="282" fill="#9fb4d7" font-size="14" letter-spacing="3">INSIGHT · INTELLIGENCE · TEAMWORK</text>
+    </g>
+  </g>
+
+  <rect x="2" y="2" width="1196" height="356" rx="26" fill="none" stroke="url(#gold)" stroke-width="4"/>
+</svg>
