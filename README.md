@@ -53,7 +53,7 @@
 <br />
 <img width="100%" src="./assets/matchday-divider.svg" alt="Barcelona-inspired matchday divider" />
 
-<h2 align="center">🚀 Featured Projects &amp; Experience</h2>
+<h2 align="center">⚽ Career Highlights & Featured Matches &amp; Experience</h2>
 
 ### 🏆 SIDINI: Outbreak Early Warning Dashboard
 
