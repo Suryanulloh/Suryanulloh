@@ -31,7 +31,7 @@
 <br />
 <img width="100%" src="./assets/matchday-divider.svg" alt="Barcelona-inspired matchday divider" />
 
-<h2 align="center">🔵🔴 Starting XI — Tech Stack</h2>
+<h2 align="center">🔵🔴 Starting XI - Tech Stack</h2>
 
 <div align="center">
   <p><strong>Data Science, Machine Learning &amp; NLP</strong></p>
